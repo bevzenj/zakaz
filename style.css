@@ -90,6 +90,7 @@ input {
 .fieldset {
     box-shadow: 5px 5px 5px -5px rgba(0, 0, 0, 0.84);
     border-radius: 5px3;
+    width: 100%;
 }
 
 .age {
