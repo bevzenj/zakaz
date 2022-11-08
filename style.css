@@ -57,6 +57,7 @@ input {
 .title {
     font-weight: 900;
     text-shadow: 1px 1px 5px rgba(206,206,206,0.89);
+    text-align: center;
 }
 
 .subtitle {
@@ -146,9 +147,11 @@ input {
 }
 
 .city-input {
-    padding: 2px;
-    word-wrap: break-word;
-    word-break: break-all;
+    background: none;
+    border: none;
+    display: inline-table;
+    font-size: 20px;
+    color: #315879;
     width: 100%;
 }
 
