@@ -158,6 +158,7 @@ input {
 .city-input {
     background: none;
     border: none;
+    font-size: 10px;
     display: inline-table;
     color: #315879;
     width: 100%;
